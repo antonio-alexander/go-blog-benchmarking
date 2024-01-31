@@ -1,0 +1,33 @@
+goos: linux
+goarch: amd64
+pkg: github.com/antonio-alexander/go-blog-benchmarking/internal
+cpu: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz
+BenchmarkFibonacci-2   	74162642	        16.69 ns/op
+BenchmarkFibonacci-2   	73919964	        16.02 ns/op
+BenchmarkFibonacci-2   	65530470	        15.72 ns/op
+BenchmarkFibonacci-2   	69973798	        15.85 ns/op
+BenchmarkFibonacci-2   	73050229	        15.80 ns/op
+BenchmarkFibonacci-2   	72476516	        15.71 ns/op
+BenchmarkFibonacci-2   	69943022	        15.87 ns/op
+BenchmarkFibonacci-2   	69670813	        16.00 ns/op
+BenchmarkFibonacci-2   	67752715	        15.99 ns/op
+BenchmarkFibonacci-2   	74198534	        15.70 ns/op
+BenchmarkFibonacci-2   	71981228	        15.62 ns/op
+BenchmarkFibonacci-2   	68121990	        16.09 ns/op
+BenchmarkFibonacci-2   	70387790	        16.13 ns/op
+BenchmarkFibonacci-2   	73110486	        15.94 ns/op
+BenchmarkFibonacci-2   	75142644	        16.03 ns/op
+BenchmarkFibonacci-2   	75985102	        16.06 ns/op
+BenchmarkFibonacci-2   	71578314	        16.06 ns/op
+BenchmarkFibonacci-2   	62771613	        16.01 ns/op
+BenchmarkFibonacci-2   	66195825	        16.25 ns/op
+BenchmarkFibonacci-2   	70285984	        15.98 ns/op
+BenchmarkFibonacci-2   	69993177	        15.93 ns/op
+BenchmarkFibonacci-2   	72434421	        15.99 ns/op
+BenchmarkFibonacci-2   	63376292	        16.18 ns/op
+BenchmarkFibonacci-2   	66035691	        15.68 ns/op
+BenchmarkFibonacci-2   	66567156	        15.95 ns/op
+BenchmarkFibonacci-2   	72529744	        15.98 ns/op
+BenchmarkFibonacci-2   	76529524	        16.86 ns/op
+PASS
+ok  	github.com/antonio-alexander/go-blog-benchmarking/internal	33.375s
